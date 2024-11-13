@@ -1,5 +1,5 @@
 <div class="center-image">
-    <img src="img/bannerup.jpg">
+    <img src="./img/bannerup.jpg">
 </div>
 
 
@@ -57,7 +57,7 @@ ___
 
 
 <div class="center-image">
-    <img src="img/bannerdown.jpg">
+    <img src="./img/bannerdown.jpg">
 </div>
 
 
