@@ -1,6 +1,7 @@
-<div aling="center">
-    <img src="./img/banner_up.jpg">
+<div class="center-image">
+    <img src="img/bannerup.jpg">
 </div>
+
 
 # Preentrega de Proyecto Talento Tech
 
@@ -55,9 +56,10 @@ ___
 ___
 
 
-<div aling="center">
-    <img src="./img/banner_down.jpg">
+<div class="center-image">
+    <img src="img/bannerdown.jpg">
 </div>
+
 
 **    ©     [DOVIS YESICA]   2024  . Todos los derechos reservados.   Gracias TOTALES / Goal achieved!!!!   **
 
