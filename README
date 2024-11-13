@@ -1,7 +1,10 @@
 <div class="center-image">
-    <img src="./img/bannerup.jpg">
+    <img src="img/bannerup.jpg"
 </div>
 
+<div aling="center">
+    <img src="/img/Banner.jpg">
+</div>
 
 # Preentrega de Proyecto Talento Tech
 
